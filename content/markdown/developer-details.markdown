@@ -35,7 +35,9 @@ If you have any questions feel free to contact the PortMaster Crew in our discor
 | 26 | Yozoraki             | [itch.io](https://yozoraki.itch.io/nnnnokia)              		| GMS                     |                          |
 | 27 | Suitgames            | [suitgames.com](https://www.suitgames.com/)               		| GMS                     |                          |
 | 28 | Fred Wood            | [itch.io](https://thatsmytrunks.itch.io/)                 		| GMS                     |                          |
-
+| 29 | Bagelcollie          | [itch.io](https://bagelcollie.itch.io/)
+      | GMS,GODOT                 | 
+                  |
 ## Open Source Developer Permissions:
 
 | #  | Dev Name             | Link                                                      		| Engine                  | Notes                    |
